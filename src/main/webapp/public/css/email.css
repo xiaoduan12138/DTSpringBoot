@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+table{
+	border:#000 2px solid;
+	width:500px;
+	border-collapse:collapse;
+	}	
+table td{
+	border:#666 1px solid;
+	padding:5px;
+}
+table th{
+	border:#666 1px solid;
+	padding:5px;
+	background:#6CF;
+}
+.one{
+	background-color:#9F3;
+}
+.two{
+	background-color:#FF0;
+}
+.over{
+	background-color:#00F;
+}

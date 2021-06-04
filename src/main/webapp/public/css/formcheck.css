@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.trueinfo{
+	color:#0C0;
+	display:none;
+}
+
+.errorinfo{
+	color:#F00;
+	display:none;
+}
