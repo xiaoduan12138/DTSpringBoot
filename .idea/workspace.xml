@@ -38,6 +38,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -368,18 +373,18 @@
       <workItem from="1604189902059" duration="26000" />
       <workItem from="1605020626766" duration="38000" />
       <workItem from="1622796340114" duration="764000" />
-      <workItem from="1622798252472" duration="371000" />
+      <workItem from="1622798252472" duration="897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36124000" />
+    <option name="totallyTimeSpent" value="36650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.330033" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.48562783" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -397,7 +402,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3294893" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.330033" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" visible="true" weight="0.330033" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2624811" />
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.32980332" />
       <window_info id="Web" order="2" side_tool="true" />

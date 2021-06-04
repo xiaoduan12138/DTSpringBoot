@@ -3,7 +3,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <html>
 	<head>
-		<title>小春论坛登录</title>
+		<title>小春论坛登录开发版</title>
 		<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
 		<script type="text/javascript">
             function checkInput() {
